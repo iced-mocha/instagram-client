@@ -1,0 +1,5 @@
+frontend-url: "https://www.iced-mocha.com:443"
+core-url: "https://www.iced-mocha.com:3000"
+redirect-uri: "https://www.iced-mocha.com:3003/v1/authorize_callback"
+instagram-token: "TOKEN"
+instagram-secret: "SECRET"

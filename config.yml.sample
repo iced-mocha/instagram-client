@@ -1,0 +1,5 @@
+frontend-url: "https://localhost:443"
+core-url: "https://localhost:3000"
+callback-url: "https://localhost:3003/v1/authorize_callback"
+instagram-token: "ad8bc557ac3d4dcfbcd731ca18caad98"
+instagram-secret: "SECRET"
